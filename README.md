@@ -86,5 +86,6 @@ state2.arr[0] !== state1.arr[0] // true
 state2.arr[0].obj !== state1.arr[0].obj // true
 ```
 
----
+## See also
+
 [![Freddie Gibbs - Cocaine Parties In L.A.](http://i.imgur.com/3oEmep8.jpg)](https://www.youtube.com/watch?v=lGaVPvWdxrU)
